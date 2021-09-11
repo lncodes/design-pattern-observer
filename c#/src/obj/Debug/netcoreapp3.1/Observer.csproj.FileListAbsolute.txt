@@ -1,0 +1,9 @@
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Observer\c#\src\obj\Debug\netcoreapp3.1\Observer.pdb
